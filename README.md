@@ -1,9 +1,10 @@
 # 1k-dork-SQL-injection
+
 <p>
 \Elang Red Cyber Team/
 1k dork SQL injection 
 SQL injection adalah teknik untuk melakukan peretasan dan mencuri database / kalau cuman bocorin data sih gpp tapi kalau Seorang deface tentunya mengambil username dan password di situs tersebuk lalu login menjadi admin lalu men uplod webshell dan mencek public_html lalu index nya di edit dan terjadilah hacked by wiwkiwkwiw kan wkwkwkwk itu sih yang saya lakukan jika melakukan peretasan dengan sql injection 
-SQL injection ini berbbaya jadi jangan ngerendahin hacker SQL injection semuanya jago dengan teknik mereka jangan perna sombong yang di atas mu masi ada lagi yang di atas mu teruslah merendah </p>
+SQL injection ini berbahaya jadi jangan ngerendahin hacker SQL injection semuanya jago dengan teknik mereka jangan perna sombong yang di atas mu masi ada lagi yang di atas mu teruslah merendah </p>
 <pre>
 releases_headlines_details.php?id=
 store_bycat.php?id=
